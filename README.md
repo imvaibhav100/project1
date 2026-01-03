@@ -2,7 +2,6 @@
 
 [![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A modern, responsive website showcasing traditional Indian sweets with detailed recipes and ingredients. Built with clean HTML and CSS, featuring smooth animations and an elegant user interface.
 
@@ -71,7 +70,7 @@ A modern, responsive website showcasing traditional Indian sweets with detailed 
 ## 📁 Project Structure
 
 ```
-project1/
+vaibhav-dhaba/
 │
 ├── practice.html          # Main HTML file
 ├── style.css             # Stylesheet with all styling
